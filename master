@@ -1,0 +1,31 @@
+<html>
+<head>
+	<title>"Белая аллея" Центр красоты и здоровья</title>
+</head>
+<center><h1>"Белая аллея"</h1></center>
+<center><h2>Центр крсоты и здоровья</h2></center>
+<center><h2> О нас</h2></center>
+<p="justify">Центр красоты и здоровья « Белая Аллея» расположен в историческом центре, и предлагает<i> полный спектр </i>косметологических услуг, уход за телом, парикмахерские услуги и услуги ногтевого сервиса.
+</p>
+<p><center><b> Время работы </b> </center></p>
+<center> <a> <font style="color:brown">9:00 - 21:00 </a> </font> </center>
+</br></br>
+</center>
+<center><h3>В нашем центре красоты Вы можете приобрести продукцию по уходу за лицом, телом и волосами различных брендов.</h3></center>
+
+<center><p><a href="Посмотреть бутик.html"> <font style="color:brown">ПОСМОТРЕТЬ БУТИК </font> </a> </center></p> </center>
+
+</center>
+
+<center><h2>Услуги для женщин и мужчин</h2></center>
+<a href="Косметология.html"> <font style="color:brown"> Косметология </a></font> |    <a href="Уход за телом.html"><font style="color:brown"> Уход за телом </a></font>   |
+  <a href="Услуги маникюра и педикюра.html"> <font style="color:brown">Услуги маникюра и педикюра </a></font>    |
+<a href="Парикхмахерские услуги.html"><font style="color:brown"> Парикмахерские услуги </a></font>
+<br/><br/>
+
+<hr size = "1" color = "brown" width = "80%"> <br>
+<p = "center"> <small> &copy; А.И. Босулаева, И.П. Толокнов, гр. 8926, ГУАП &ndash; 2022 г. 
+Все права защищены </small></p>
+До новых встреч!
+</body>
+</html>
